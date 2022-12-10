@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Rahmadi Trimananda</title>
+    <link>https://rahmadi-trimananda.netlify.app/publication-type/3/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing Smart Home Devices against Compromised Cloud Servers</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PingPong: Packet-Level Signatures for Smart Home Devices</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuki Maruyama | Rahmadi Trimananda</title>
+    <link>https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuki Maruyama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
+      <title>Yuki Maruyama</title>
+      <link>https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/</link>
+    </image>
+    
+    <item>
+      <title>A Time-Resolved, Low-Noise Single-Photon Image Sensor Fabricated in Deep-Submicron CMOS Technology</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2012_jssc/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2012_jssc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High frame-rate TCSPC-FLIM using a novel SPAD-based image sensor</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

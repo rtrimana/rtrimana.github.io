@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symposium | Rahmadi Trimananda</title>
+    <link>https://rahmadi-trimananda.netlify.app/category/symposium/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/category/symposium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Symposium</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
+      <title>Symposium</title>
+      <link>https://rahmadi-trimananda.netlify.app/category/symposium/</link>
+    </image>
+    
+    <item>
+      <title>Supporting the Second Annual ProperData Symposium</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the First Annual ProperData Symposium</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2021/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

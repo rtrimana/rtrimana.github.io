@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Gamero-Garrido | Rahmadi Trimananda</title>
+    <link>https://rahmadi-trimananda.netlify.app/author/alexander-gamero-garrido/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/alexander-gamero-garrido/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Gamero-Garrido</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexander Gamero-Garrido</title>
+      <link>https://rahmadi-trimananda.netlify.app/author/alexander-gamero-garrido/</link>
+    </image>
+    
+    <item>
+      <title>Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

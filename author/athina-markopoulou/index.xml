@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Athina Markopoulou | Rahmadi Trimananda</title>
+    <link>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Athina Markopoulou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
+      <title>Athina Markopoulou</title>
+      <link>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</link>
+    </image>
+    
+    <item>
+      <title>OVRSeen at FTC PrivacyCon 2022</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</guid>
+      <description>&lt;p&gt;Rahmadi Trimananda is presenting our work on 
+&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies for Oculus VR&lt;/a&gt;] at 
+&lt;a href=&#34;https://www.ftc.gov/news-events/events/2022/11/privacycon-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTC PrivacyCon 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A CI-based Auditing Framework for Data Collection Practices</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_privaci/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_privaci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVRSeen at PrivaCI 2022</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</guid>
+      <description>&lt;p&gt;Rahmadi Trimananda is presenting our work on 
+&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies for Oculus VR&lt;/a&gt;] at 
+&lt;a href=&#34;https://privaci.info/symposium/2022/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PrivaCI 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FingerprinTV: Fingerprinting Smart TV Apps</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FingerprinTV: Fingerprinting Smart TV Apps has been accepted to PETS 2022!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://petsymposium.org/popets/2022/popets-2022-0088.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FingerprinTV: Fingerprinting Smart TV Apps&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OVRSeen: Auditing Network Traffic and Privacy Policies in Oculus VR has been accepted to USENIX Security 2022!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/ovrseen_accepted_news/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/ovrseen_accepted_news/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies in Oculus VR&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Packet-Level Signatures for Smart Home Devices</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PingPong: Packet-Level Signatures for Smart Home Devices</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

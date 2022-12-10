@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rahmadi-trimananda.netlify.app/sitemap.xml
