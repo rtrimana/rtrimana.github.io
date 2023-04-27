@@ -5,12 +5,20 @@
     <link>https://rahmadi-trimananda.netlify.app/post/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://rahmadi-trimananda.netlify.app/post/</link>
     </image>
+    
+    <item>
+      <title>IEEE Senior Member grade elevation</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/ieee_senior_member_grade_elevation/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/ieee_senior_member_grade_elevation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supporting the Second Annual ProperData Symposium</title>
