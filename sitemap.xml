@@ -2,19 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication-type/3/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/gene-tsudik/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/janus-varmarken/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_madea_preprint/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/olivia-figueira/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication_types/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/renascence-tarafder-prapty/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/sashidhar-jakkamsetti/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/scott-jordan/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication-type/1/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication-type/3/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/author/alexander-gamero-garrido/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication/2023_behavr_arxiv/</loc>
@@ -50,18 +89,6 @@
     <loc>https://rahmadi-trimananda.netlify.app/category/publication/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication_types/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/author/selma-elmalaki/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -87,9 +114,6 @@
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/post/poligraph_accepted_news/</loc>
-    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/scott-jordan/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/tag/ieee-membership/</loc>
@@ -174,9 +198,6 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/author/jad-al-aaraj/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/janus-varmarken/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/tag/project-scientist/</loc>

@@ -5,12 +5,36 @@
     <link>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/index.xml" rel="self" type="application/rss+xml" />
     <description>Rahmadi Trimananda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu07204ffcf51acddddb4b1a78c3fad05a_64995_512x512_fill_lanczos_center_3.png</url>
       <title>Rahmadi Trimananda</title>
       <link>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</link>
     </image>
+    
+    <item>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2023_madea_preprint/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_madea_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEQNATURE: Extracting Network Fingerprints from Packet Sequences</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BehaVR: User Identification Based on VR Sensor Data</title>
