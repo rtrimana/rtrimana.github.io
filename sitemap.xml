@@ -2,435 +2,450 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication-type/3/</loc>
+    <loc>http://localhost:1313/author/alexander-gamero-garrido/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/athina-markopoulou/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/daniel-dubois/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/david-choffnes/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/franziska-roesner/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/hao-cui/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/pouneh-nikkah-bahrami/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/publication/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/category/publication/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/rahmadi-trimananda/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/caspar_bowden_award/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/umar-iqbal/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/zubair-shafiq/</loc>
+    <lastmod>2024-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/3/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/2024_sok/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/scott-jordan/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2024-03-04T18:44:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/xcompass/</loc>
+    <lastmod>2024-03-04T18:44:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/comcast-cyber-security-ccs-research/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</loc>
+    <loc>http://localhost:1313/post/comcast_ccs_research/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
+    <loc>http://localhost:1313/category/job/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/publication/2024_webform/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/comcast-cyber-security-ccs-research/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/hao-cui/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/comcast_ccs_research/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/category/job/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication_types/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tags/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2024_webform_preprint/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/jad-al-aaraj/</loc>
+    <loc>http://localhost:1313/author/jad-al-aaraj/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/olivia-figueira/</loc>
+    <loc>http://localhost:1313/author/olivia-figueira/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/tu-le/</loc>
+    <loc>http://localhost:1313/author/tu-le/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_preprint/</loc>
+    <loc>http://localhost:1313/publication/2024_vbit/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</loc>
+    <loc>http://localhost:1313/publication/2023_diffaudit/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/gene-tsudik/</loc>
+    <loc>http://localhost:1313/publication/2023_diffaudit_arxiv/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/janus-varmarken/</loc>
+    <loc>http://localhost:1313/author/janus-varmarken/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_madea_preprint/</loc>
+    <loc>http://localhost:1313/publication/2023_seqnature/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/renascence-tarafder-prapty/</loc>
+    <loc>http://localhost:1313/publication/2023_seqnature_arxiv/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/sashidhar-jakkamsetti/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/scott-jordan/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication-type/1/</loc>
+    <loc>http://localhost:1313/publication-type/1/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/alexander-gamero-garrido/</loc>
+    <loc>http://localhost:1313/publication/2023_behavr_arxiv/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_behavr_arxiv/</loc>
+    <loc>http://localhost:1313/author/ismat-jarin/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/daniel-dubois/</loc>
+    <loc>http://localhost:1313/author/selma-elmalaki/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/david-choffnes/</loc>
+    <loc>http://localhost:1313/publication/2023_echos_imc/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/franziska-roesner/</loc>
+    <loc>http://localhost:1313/post/echos_accepted_news/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/ismat-jarin/</loc>
+    <loc>http://localhost:1313/author/yu-duan/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/pouneh-nikkah-bahrami/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/gene-tsudik/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/publication/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/publication/2023_madea/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/category/publication/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/renascence-tarafder-prapty/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/selma-elmalaki/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/author/sashidhar-jakkamsetti/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/echos_accepted_news/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/umar-iqbal/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/yu-duan/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/zubair-shafiq/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2023_usenix_sec/</loc>
+    <loc>http://localhost:1313/publication/2023_usenix_sec/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/poligraph_accepted_news/</loc>
+    <loc>http://localhost:1313/post/poligraph_accepted_news/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/ieee-membership/</loc>
+    <loc>http://localhost:1313/tag/ieee-membership/</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/ieee_senior_member_grade_elevation/</loc>
+    <loc>http://localhost:1313/post/ieee_senior_member_grade_elevation/</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/category/promotion/</loc>
+    <loc>http://localhost:1313/category/promotion/</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/properdata-symposium/</loc>
+    <loc>http://localhost:1313/tag/properdata-symposium/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2022/</loc>
+    <loc>http://localhost:1313/post/properdata_symposium_2022/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/category/symposium/</loc>
+    <loc>http://localhost:1313/category/symposium/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/talk/ovrseen_ftc_privacycon_2022/</loc>
+    <loc>http://localhost:1313/talk/ovrseen_ftc_privacycon_2022/</loc>
     <lastmod>2022-11-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
     <lastmod>2022-11-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/anastasia-shuba/</loc>
+    <loc>http://localhost:1313/author/anastasia-shuba/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/federal-trade-commission/</loc>
+    <loc>http://localhost:1313/tag/federal-trade-commission/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/hieu-le/</loc>
+    <loc>http://localhost:1313/author/hieu-le/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/janice-ho/</loc>
+    <loc>http://localhost:1313/author/janice-ho/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</loc>
+    <loc>http://localhost:1313/post/ftc_privacycon_2022/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/presentation/</loc>
+    <loc>http://localhost:1313/tag/presentation/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/category/presentation/</loc>
+    <loc>http://localhost:1313/category/presentation/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/privacycon/</loc>
+    <loc>http://localhost:1313/tag/privacycon/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</loc>
+    <loc>http://localhost:1313/publication/2022_poligraph_arxiv/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2022_privaci/</loc>
+    <loc>http://localhost:1313/publication/2022_privaci/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</loc>
+    <loc>http://localhost:1313/post/ovrseen_at_privaci_2022/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/talk/ovrseen_privaci_2022/</loc>
+    <loc>http://localhost:1313/talk/ovrseen_privaci_2022/</loc>
     <lastmod>2022-09-22T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/talk/ovrseen_ddg_2022/</loc>
+    <loc>http://localhost:1313/talk/ovrseen_ddg_2022/</loc>
     <lastmod>2022-08-18T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/janice-tran-ho/</loc>
+    <loc>http://localhost:1313/author/janice-tran-ho/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</loc>
+    <loc>http://localhost:1313/publication/2022_usenix_sec/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/summer_workshop_2022/</loc>
+    <loc>http://localhost:1313/post/summer_workshop_2022/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/summer-workshop/</loc>
+    <loc>http://localhost:1313/tag/summer-workshop/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/category/workshop/</loc>
+    <loc>http://localhost:1313/category/workshop/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</loc>
+    <loc>http://localhost:1313/publication/2022_pets/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/project-scientist/</loc>
+    <loc>http://localhost:1313/tag/project-scientist/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/project_scientist_promotion/</loc>
+    <loc>http://localhost:1313/post/project_scientist_promotion/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</loc>
+    <loc>http://localhost:1313/publication/2022_echos_arxiv/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</loc>
+    <loc>http://localhost:1313/post/fingerprintv_accepted_news/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/brian-demsky/</loc>
+    <loc>http://localhost:1313/author/brian-demsky/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/guoqing-harry-xu/</loc>
+    <loc>http://localhost:1313/author/guoqing-harry-xu/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</loc>
+    <loc>http://localhost:1313/publication/2022_vmcai/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/weiyu-luo/</loc>
+    <loc>http://localhost:1313/author/weiyu-luo/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2021/</loc>
+    <loc>http://localhost:1313/post/properdata_symposium_2021/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/ovrseen_accepted_news/</loc>
+    <loc>http://localhost:1313/post/ovrseen_accepted_news/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</loc>
+    <loc>http://localhost:1313/publication/2021_stateful_arxiv/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/</loc>
+    <loc>http://localhost:1313/project/properdata/</loc>
     <lastmod>2021-07-12T18:44:10+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/properdata/</loc>
-    <lastmod>2021-07-12T18:44:10+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/security-privacy-and-safety-of-smart-homes/</loc>
+    <loc>http://localhost:1313/project/security-privacy-and-safety-of-smart-homes/</loc>
     <lastmod>2021-07-12T18:43:07+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/fpga-cutting-edge-debugging-feature/</loc>
+    <loc>http://localhost:1313/project/fpga-cutting-edge-debugging-feature/</loc>
     <lastmod>2021-07-12T18:42:27+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/irisign/</loc>
+    <loc>http://localhost:1313/project/irisign/</loc>
     <lastmod>2021-07-12T18:00:42+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</loc>
+    <loc>http://localhost:1313/publication/2021_ovrseen_arxiv/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication-type/5/</loc>
+    <loc>http://localhost:1313/publication-type/5/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/jason-chuang/</loc>
+    <loc>http://localhost:1313/author/jason-chuang/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/tag/postdoctoral-researcher/</loc>
+    <loc>http://localhost:1313/tag/postdoctoral-researcher/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/seyed-amir-hossein-aqajari/</loc>
+    <loc>http://localhost:1313/author/seyed-amir-hossein-aqajari/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/shan-lu/</loc>
+    <loc>http://localhost:1313/author/shan-lu/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/postdoctoral_researcher_start/</loc>
+    <loc>http://localhost:1313/post/postdoctoral_researcher_start/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</loc>
+    <loc>http://localhost:1313/publication/2020_esecfse/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2020_phd_thesis/</loc>
+    <loc>http://localhost:1313/publication/2020_phd_thesis/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/garment-printing-system-university-of-pelita-harapan-jakarta-indonesia-2009-2011/</loc>
+    <loc>http://localhost:1313/project/garment-printing-system-university-of-pelita-harapan-jakarta-indonesia-2009-2011/</loc>
     <lastmod>2020-09-30T21:33:11+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/megaframe-project-tu-delft-netherlands-2008-2009/</loc>
+    <loc>http://localhost:1313/project/megaframe-project-tu-delft-netherlands-2008-2009/</loc>
     <lastmod>2020-09-30T21:27:26+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/low-power-wireless-sensor-network/</loc>
+    <loc>http://localhost:1313/project/low-power-wireless-sensor-network/</loc>
     <lastmod>2020-09-30T21:23:17+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/project/parallel-microcontroller/</loc>
+    <loc>http://localhost:1313/project/parallel-microcontroller/</loc>
     <lastmod>2020-09-30T21:20:44+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/ali-younis/</loc>
+    <loc>http://localhost:1313/author/ali-younis/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</loc>
+    <loc>http://localhost:1313/publication/2020_hotedge/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/thomas-kwa/</loc>
+    <loc>http://localhost:1313/author/thomas-kwa/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</loc>
+    <loc>http://localhost:1313/publication/2020_fidelius_arxiv/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</loc>
+    <loc>http://localhost:1313/publication/2020_ndss/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</loc>
+    <loc>http://localhost:1313/publication/2019_pingpong_arxiv/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/bin-xu/</loc>
+    <loc>http://localhost:1313/author/bin-xu/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/bojun-wang/</loc>
+    <loc>http://localhost:1313/author/bojun-wang/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/david-stoppa/</loc>
+    <loc>http://localhost:1313/author/david-stoppa/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</loc>
+    <loc>http://localhost:1313/publication/2018_sec/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/talk/iot_programmability_2016/</loc>
+    <loc>http://localhost:1313/talk/iot_programmability_2016/</loc>
     <lastmod>2016-11-18T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2015_intel_dttc/</loc>
+    <loc>http://localhost:1313/publication/2015_intel_dttc/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/tan-siang-yeong/</loc>
+    <loc>http://localhost:1313/author/tan-siang-yeong/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/weifeng-voon/</loc>
+    <loc>http://localhost:1313/author/weifeng-voon/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2014_ieecon/</loc>
+    <loc>http://localhost:1313/publication/2014_ieecon/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/yeoh-chiah-kuang/</loc>
+    <loc>http://localhost:1313/author/yeoh-chiah-kuang/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2013_printing/</loc>
+    <loc>http://localhost:1313/publication/2013_printing/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/arnold-aribowo/</loc>
+    <loc>http://localhost:1313/author/arnold-aribowo/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2013_communication/</loc>
+    <loc>http://localhost:1313/publication/2013_communication/</loc>
     <lastmod>2013-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/larry-l.-connor/</loc>
+    <loc>http://localhost:1313/author/larry-l.-connor/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2013_intel_validation_summit/</loc>
+    <loc>http://localhost:1313/publication/2013_intel_validation_summit/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2012_icsiit/</loc>
+    <loc>http://localhost:1313/publication/2012_icsiit/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication-type/2/</loc>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2012_jssc/</loc>
+    <loc>http://localhost:1313/publication/2012_jssc/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/edoardo-charbon/</loc>
+    <loc>http://localhost:1313/author/edoardo-charbon/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/justin-a.-richardson/</loc>
+    <loc>http://localhost:1313/author/justin-a.-richardson/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/marek-gersbach/</loc>
+    <loc>http://localhost:1313/author/marek-gersbach/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/matt-w.-fishburn/</loc>
+    <loc>http://localhost:1313/author/matt-w.-fishburn/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/richard-walker/</loc>
+    <loc>http://localhost:1313/author/richard-walker/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/robert-henderson/</loc>
+    <loc>http://localhost:1313/author/robert-henderson/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/</loc>
+    <loc>http://localhost:1313/author/yuki-maruyama/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</loc>
+    <loc>http://localhost:1313/publication/2010_spie/</loc>
     <lastmod>2010-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2010_dfma/</loc>
+    <loc>http://localhost:1313/publication/2010_dfma/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/christoforus-yoga-harianto/</loc>
+    <loc>http://localhost:1313/author/christoforus-yoga-harianto/</loc>
     <lastmod>2010-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2010_icsiit/</loc>
+    <loc>http://localhost:1313/publication/2010_icsiit/</loc>
     <lastmod>2010-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2010_act/</loc>
+    <loc>http://localhost:1313/publication/2010_act/</loc>
     <lastmod>2010-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2009_msc_thesis/</loc>
+    <loc>http://localhost:1313/publication/2009_msc_thesis/</loc>
     <lastmod>2009-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/aditya-r.-mitra/</loc>
+    <loc>http://localhost:1313/author/aditya-r.-mitra/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2007_icsiit/</loc>
+    <loc>http://localhost:1313/publication/2007_icsiit/</loc>
     <lastmod>2007-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2006_snsi/</loc>
+    <loc>http://localhost:1313/publication/2006_snsi/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2006_undergrad_thesis/</loc>
+    <loc>http://localhost:1313/publication/2006_undergrad_thesis/</loc>
     <lastmod>2006-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/2005_undergrad_internship_report/</loc>
+    <loc>http://localhost:1313/publication/2005_undergrad_internship_report/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
+    <loc>http://localhost:1313/author/rahmadi-trimananda/</loc>
   </url>
 </urlset>

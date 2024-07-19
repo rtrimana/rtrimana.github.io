@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Demsky | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/author/brian-demsky/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/author/brian-demsky/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/brian-demsky/</link>
+      <atom:link href="http://localhost:1313/author/brian-demsky/index.xml" rel="self" type="application/rss+xml" />
     <description>Brian Demsky</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Brian Demsky</title>
-      <link>https://rahmadi-trimananda.netlify.app/author/brian-demsky/</link>
+      <link>http://localhost:1313/author/brian-demsky/</link>
     </image>
     
     <item>
       <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</link>
+      <link>http://localhost:1313/publication/2022_vmcai/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</guid>
+      <guid>http://localhost:1313/publication/2022_vmcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</link>
+      <link>http://localhost:1313/publication/2021_stateful_arxiv/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2021_stateful_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Automatically Detecting Conflicting Interactions between Smart Home IoT Applications</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</link>
+      <link>http://localhost:1313/publication/2020_esecfse/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</guid>
+      <guid>http://localhost:1313/publication/2020_esecfse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</link>
+      <link>http://localhost:1313/publication/2020_hotedge/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</guid>
+      <guid>http://localhost:1313/publication/2020_hotedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</link>
+      <link>http://localhost:1313/publication/2020_fidelius_arxiv/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2020_fidelius_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Packet-Level Signatures for Smart Home Devices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</link>
+      <link>http://localhost:1313/publication/2020_ndss/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</guid>
+      <guid>http://localhost:1313/publication/2020_ndss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PingPong: Packet-Level Signatures for Smart Home Devices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</link>
+      <link>http://localhost:1313/publication/2019_pingpong_arxiv/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2019_pingpong_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vigilia: Securing Smart Home Edge Computing</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</link>
+      <link>http://localhost:1313/publication/2018_sec/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</guid>
+      <guid>http://localhost:1313/publication/2018_sec/</guid>
       <description></description>
     </item>
     

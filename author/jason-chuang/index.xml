@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Chuang | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/author/jason-chuang/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/author/jason-chuang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jason-chuang/</link>
+      <atom:link href="http://localhost:1313/author/jason-chuang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Chuang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Jason Chuang</title>
-      <link>https://rahmadi-trimananda.netlify.app/author/jason-chuang/</link>
+      <link>http://localhost:1313/author/jason-chuang/</link>
     </image>
     
     <item>
       <title>Understanding and Automatically Detecting Conflicting Interactions between Smart Home IoT Applications</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</link>
+      <link>http://localhost:1313/publication/2020_esecfse/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</guid>
+      <guid>http://localhost:1313/publication/2020_esecfse/</guid>
       <description></description>
     </item>
     

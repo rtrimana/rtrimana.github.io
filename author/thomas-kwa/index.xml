@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Kwa | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/author/thomas-kwa/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/author/thomas-kwa/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/thomas-kwa/</link>
+      <atom:link href="http://localhost:1313/author/thomas-kwa/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Kwa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Thomas Kwa</title>
-      <link>https://rahmadi-trimananda.netlify.app/author/thomas-kwa/</link>
+      <link>http://localhost:1313/author/thomas-kwa/</link>
     </image>
     
     <item>
       <title>Poster: Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</link>
+      <link>http://localhost:1313/publication/2020_hotedge/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</guid>
+      <guid>http://localhost:1313/publication/2020_hotedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</link>
+      <link>http://localhost:1313/publication/2020_fidelius_arxiv/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2020_fidelius_arxiv/</guid>
       <description></description>
     </item>
     

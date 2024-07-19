@@ -2,37 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott Jordan | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/author/scott-jordan/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/author/scott-jordan/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/scott-jordan/</link>
+      <atom:link href="http://localhost:1313/author/scott-jordan/index.xml" rel="self" type="application/rss+xml" />
     <description>Scott Jordan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Scott Jordan</title>
-      <link>https://rahmadi-trimananda.netlify.app/author/scott-jordan/</link>
+      <link>http://localhost:1313/author/scott-jordan/</link>
     </image>
     
     <item>
+      <title>Privacy via Systems, Policies and Laws: A Review</title>
+      <link>http://localhost:1313/publication/2024_sok/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_sok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</link>
+      <link>http://localhost:1313/publication/2023_diffaudit/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</guid>
+      <guid>http://localhost:1313/publication/2023_diffaudit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
+      <link>http://localhost:1313/publication/2023_diffaudit_arxiv/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_diffaudit_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_usenix_sec/</link>
+      <link>http://localhost:1313/publication/2023_usenix_sec/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_usenix_sec/</guid>
+      <guid>http://localhost:1313/publication/2023_usenix_sec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs has been accepted to USENIX Security 2023!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/poligraph_accepted_news/</link>
+      <link>http://localhost:1313/post/poligraph_accepted_news/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/poligraph_accepted_news/</guid>
+      <guid>http://localhost:1313/post/poligraph_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity23/presentation/cui&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -40,9 +56,9 @@
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</link>
+      <link>http://localhost:1313/publication/2022_poligraph_arxiv/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2022_poligraph_arxiv/</guid>
       <description></description>
     </item>
     

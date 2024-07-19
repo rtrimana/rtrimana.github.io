@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olivia Figueira | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/author/olivia-figueira/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/author/olivia-figueira/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/olivia-figueira/</link>
+      <atom:link href="http://localhost:1313/author/olivia-figueira/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivia Figueira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Olivia Figueira</title>
-      <link>https://rahmadi-trimananda.netlify.app/author/olivia-figueira/</link>
+      <link>http://localhost:1313/author/olivia-figueira/</link>
     </image>
     
     <item>
       <title>VBIT: Mixed Reality Visualization of Tracking by the Internet of Things</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_preprint/</link>
+      <link>http://localhost:1313/publication/2024_vbit/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_preprint/</guid>
+      <guid>http://localhost:1313/publication/2024_vbit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</link>
+      <link>http://localhost:1313/publication/2023_diffaudit/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</guid>
+      <guid>http://localhost:1313/publication/2023_diffaudit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
+      <link>http://localhost:1313/publication/2023_diffaudit_arxiv/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_diffaudit_arxiv/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janus Varmarken | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/author/janus-varmarken/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/author/janus-varmarken/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/janus-varmarken/</link>
+      <atom:link href="http://localhost:1313/author/janus-varmarken/index.xml" rel="self" type="application/rss+xml" />
     <description>Janus Varmarken</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Janus Varmarken</title>
-      <link>https://rahmadi-trimananda.netlify.app/author/janus-varmarken/</link>
+      <link>http://localhost:1313/author/janus-varmarken/</link>
     </image>
     
     <item>
       <title>SEQNATURE: Extracting Network Fingerprints from Packet Sequences</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</link>
+      <link>http://localhost:1313/publication/2023_seqnature/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</guid>
+      <guid>http://localhost:1313/publication/2023_seqnature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEQNATURE: Extracting Network Fingerprints from Packet Sequences</title>
+      <link>http://localhost:1313/publication/2023_seqnature_arxiv/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_seqnature_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FingerprinTV: Fingerprinting Smart TV Apps</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</link>
+      <link>http://localhost:1313/publication/2022_pets/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</guid>
+      <guid>http://localhost:1313/publication/2022_pets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FingerprinTV: Fingerprinting Smart TV Apps has been accepted to PETS 2022!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</link>
+      <link>http://localhost:1313/post/fingerprintv_accepted_news/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</guid>
+      <guid>http://localhost:1313/post/fingerprintv_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://petsymposium.org/popets/2022/popets-2022-0088.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FingerprinTV: Fingerprinting Smart TV Apps&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -40,17 +48,17 @@
     
     <item>
       <title>Packet-Level Signatures for Smart Home Devices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</link>
+      <link>http://localhost:1313/publication/2020_ndss/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</guid>
+      <guid>http://localhost:1313/publication/2020_ndss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PingPong: Packet-Level Signatures for Smart Home Devices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</link>
+      <link>http://localhost:1313/publication/2019_pingpong_arxiv/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2019_pingpong_arxiv/</guid>
       <description></description>
     </item>
     

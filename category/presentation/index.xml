@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentation | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/category/presentation/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/category/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/presentation/</link>
+      <atom:link href="http://localhost:1313/category/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Presentation</title>
-      <link>https://rahmadi-trimananda.netlify.app/category/presentation/</link>
+      <link>http://localhost:1313/category/presentation/</link>
     </image>
     
     <item>
       <title>OVRSeen at FTC PrivacyCon 2022</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</link>
+      <link>http://localhost:1313/post/ftc_privacycon_2022/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</guid>
+      <guid>http://localhost:1313/post/ftc_privacycon_2022/</guid>
       <description>&lt;p&gt;Rahmadi Trimananda is presenting our work on 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies for Oculus VR&lt;/a&gt;] at 
 &lt;a href=&#34;https://www.ftc.gov/news-events/events/2022/11/privacycon-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTC PrivacyCon 2022&lt;/a&gt;.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>OVRSeen at PrivaCI 2022</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</link>
+      <link>http://localhost:1313/post/ovrseen_at_privaci_2022/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</guid>
+      <guid>http://localhost:1313/post/ovrseen_at_privaci_2022/</guid>
       <description>&lt;p&gt;Rahmadi Trimananda is presenting our work on 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies for Oculus VR&lt;/a&gt;] at 
 &lt;a href=&#34;https://privaci.info/symposium/2022/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PrivaCI 2022&lt;/a&gt;.&lt;/p&gt;

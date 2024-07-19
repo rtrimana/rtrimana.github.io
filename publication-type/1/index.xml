@@ -2,189 +2,189 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/publication-type/1/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/1/</link>
+      <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication-type/1/</link>
+      <link>http://localhost:1313/publication-type/1/</link>
     </image>
     
     <item>
       <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</link>
+      <link>http://localhost:1313/publication/2023_echos_imc/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</guid>
+      <guid>http://localhost:1313/publication/2023_echos_imc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_usenix_sec/</link>
+      <link>http://localhost:1313/publication/2023_usenix_sec/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_usenix_sec/</guid>
+      <guid>http://localhost:1313/publication/2023_usenix_sec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A CI-based Auditing Framework for Data Collection Practices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_privaci/</link>
+      <link>http://localhost:1313/publication/2022_privaci/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_privaci/</guid>
+      <guid>http://localhost:1313/publication/2022_privaci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</link>
+      <link>http://localhost:1313/publication/2022_usenix_sec/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</guid>
+      <guid>http://localhost:1313/publication/2022_usenix_sec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FingerprinTV: Fingerprinting Smart TV Apps</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</link>
+      <link>http://localhost:1313/publication/2022_pets/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_pets/</guid>
+      <guid>http://localhost:1313/publication/2022_pets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</link>
+      <link>http://localhost:1313/publication/2022_vmcai/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</guid>
+      <guid>http://localhost:1313/publication/2022_vmcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Automatically Detecting Conflicting Interactions between Smart Home IoT Applications</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</link>
+      <link>http://localhost:1313/publication/2020_esecfse/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</guid>
+      <guid>http://localhost:1313/publication/2020_esecfse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</link>
+      <link>http://localhost:1313/publication/2020_hotedge/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</guid>
+      <guid>http://localhost:1313/publication/2020_hotedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Packet-Level Signatures for Smart Home Devices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</link>
+      <link>http://localhost:1313/publication/2020_ndss/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_ndss/</guid>
+      <guid>http://localhost:1313/publication/2020_ndss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vigilia: Securing Smart Home Edge Computing</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</link>
+      <link>http://localhost:1313/publication/2018_sec/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</guid>
+      <guid>http://localhost:1313/publication/2018_sec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated Power Management Validation: Toward 5X Velocity in Validation Roadmap</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2015_intel_dttc/</link>
+      <link>http://localhost:1313/publication/2015_intel_dttc/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2015_intel_dttc/</guid>
+      <guid>http://localhost:1313/publication/2015_intel_dttc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Software Aided Algorithm Analysis</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2014_ieecon/</link>
+      <link>http://localhost:1313/publication/2014_ieecon/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2014_ieecon/</guid>
+      <guid>http://localhost:1313/publication/2014_ieecon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printing Service Automation-Printer Monitoring Through Inter-Processes Communication By Using Api Codes in Visual Basic</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2013_printing/</link>
+      <link>http://localhost:1313/publication/2013_printing/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2013_printing/</guid>
+      <guid>http://localhost:1313/publication/2013_printing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communication Pattern of Parallel Computer, Case Study on The Implementation of Microcontrollers Parallel Computer Prototype</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2013_communication/</link>
+      <link>http://localhost:1313/publication/2013_communication/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2013_communication/</guid>
+      <guid>http://localhost:1313/publication/2013_communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PG Café RIT QA</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2013_intel_validation_summit/</link>
+      <link>http://localhost:1313/publication/2013_intel_validation_summit/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2013_intel_validation_summit/</guid>
+      <guid>http://localhost:1313/publication/2013_intel_validation_summit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printer on Garment Printing</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2012_icsiit/</link>
+      <link>http://localhost:1313/publication/2012_icsiit/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2012_icsiit/</guid>
+      <guid>http://localhost:1313/publication/2012_icsiit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High frame-rate TCSPC-FLIM using a novel SPAD-based image sensor</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</link>
+      <link>http://localhost:1313/publication/2010_spie/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</guid>
+      <guid>http://localhost:1313/publication/2010_spie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Parallel Implementation of Hybridized Merge-Quicksort Algorithm on MPICH</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2010_dfma/</link>
+      <link>http://localhost:1313/publication/2010_dfma/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2010_dfma/</guid>
+      <guid>http://localhost:1313/publication/2010_dfma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>If-Statement Modification for Single Path Transformation: Case Study on Bubble Sort and Selection Sort Algorithm</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2010_icsiit/</link>
+      <link>http://localhost:1313/publication/2010_icsiit/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2010_icsiit/</guid>
+      <guid>http://localhost:1313/publication/2010_icsiit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chromosome Centromere and Chromatid’s Banding Identification Using Pattern Vector</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2010_act/</link>
+      <link>http://localhost:1313/publication/2010_act/</link>
       <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2010_act/</guid>
+      <guid>http://localhost:1313/publication/2010_act/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Processors Approach for Robotics Real-Time Problem: Case Study on Closed-Loop Control System of Toddler Robot</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2007_icsiit/</link>
+      <link>http://localhost:1313/publication/2007_icsiit/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2007_icsiit/</guid>
+      <guid>http://localhost:1313/publication/2007_icsiit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Microcontrolers AT89C52: Parallel Processors In Embedded System Application Of Robotics</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2006_snsi/</link>
+      <link>http://localhost:1313/publication/2006_snsi/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2006_snsi/</guid>
+      <guid>http://localhost:1313/publication/2006_snsi/</guid>
       <description></description>
     </item>
     

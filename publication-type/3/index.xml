@@ -2,109 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/publication-type/3/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication-type/3/</link>
+      <link>http://localhost:1313/publication-type/3/</link>
     </image>
     
     <item>
+      <title>Privacy via Systems, Policies and Laws: A Review</title>
+      <link>http://localhost:1313/publication/2024_sok/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024_sok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Understanding Privacy Norms through Web Forms</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2024_webform_preprint/</link>
+      <link>http://localhost:1313/publication/2024_webform/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_webform_preprint/</guid>
+      <guid>http://localhost:1313/publication/2024_webform/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VBIT: Mixed Reality Visualization of Tracking by the Internet of Things</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_preprint/</link>
+      <link>http://localhost:1313/publication/2024_vbit/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_preprint/</guid>
+      <guid>http://localhost:1313/publication/2024_vbit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</link>
+      <link>http://localhost:1313/publication/2023_diffaudit/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit_preprint/</guid>
+      <guid>http://localhost:1313/publication/2023_diffaudit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_madea_preprint/</link>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
+      <link>http://localhost:1313/publication/2023_diffaudit_arxiv/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_madea_preprint/</guid>
+      <guid>http://localhost:1313/publication/2023_diffaudit_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEQNATURE: Extracting Network Fingerprints from Packet Sequences</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</link>
+      <link>http://localhost:1313/publication/2023_seqnature/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_seqnature_preprint/</guid>
+      <guid>http://localhost:1313/publication/2023_seqnature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEQNATURE: Extracting Network Fingerprints from Packet Sequences</title>
+      <link>http://localhost:1313/publication/2023_seqnature_arxiv/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_seqnature_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BehaVR: User Identification Based on VR Sensor Data</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_behavr_arxiv/</link>
+      <link>http://localhost:1313/publication/2023_behavr_arxiv/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_behavr_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2023_behavr_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
+      <link>http://localhost:1313/publication/2023_madea/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023_madea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</link>
+      <link>http://localhost:1313/publication/2022_poligraph_arxiv/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_poligraph_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2022_poligraph_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</link>
+      <link>http://localhost:1313/publication/2022_echos_arxiv/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2022_echos_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</link>
+      <link>http://localhost:1313/publication/2021_stateful_arxiv/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2021_stateful_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</link>
+      <link>http://localhost:1313/publication/2021_ovrseen_arxiv/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2021_ovrseen_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</link>
+      <link>http://localhost:1313/publication/2020_fidelius_arxiv/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2020_fidelius_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PingPong: Packet-Level Signatures for Smart Home Devices</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</link>
+      <link>http://localhost:1313/publication/2019_pingpong_arxiv/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2019_pingpong_arxiv/</guid>
+      <guid>http://localhost:1313/publication/2019_pingpong_arxiv/</guid>
       <description></description>
     </item>
     

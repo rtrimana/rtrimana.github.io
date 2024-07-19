@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/project/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 18:44:10 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Mar 2024 18:44:10 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
+      <title>xCOMPASS</title>
+      <link>http://localhost:1313/project/xcompass/</link>
+      <pubDate>Mon, 04 Mar 2024 18:44:10 +0000</pubDate>
+      <guid>http://localhost:1313/project/xcompass/</guid>
+      <description>&lt;!--StartFragment--&gt;
+&lt;p&gt;Comcast Cybersecurity &amp;amp; Privacy Research | 2024 - now&lt;/p&gt;
+&lt;p&gt;xCOMPASS is a solution developed by Comcast Cybersecurity &amp;amp; Privacy Research. It is a solution to identify privacy requirements through the means of simple questionnaire (with questions that require yes/no answers). The idenfied privacy requirements are linked to privacy principles.&lt;/p&gt;
+&lt;!--EndFragment--&gt;</description>
+    </item>
+    
+    <item>
       <title>ProperData</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/properdata/</link>
+      <link>http://localhost:1313/project/properdata/</link>
       <pubDate>Mon, 12 Jul 2021 18:44:10 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/properdata/</guid>
+      <guid>http://localhost:1313/project/properdata/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;University of California, Irvine | 2020 - now&lt;/p&gt;
 &lt;p&gt;This Frontier project seeks to protect personal data, by improving the &lt;strong&gt;transparency&lt;/strong&gt; and &lt;strong&gt;control&lt;/strong&gt; of personal data flow on the Internet. We take a multidisciplinary approach, combining methodologies from &lt;strong&gt;computer science&lt;/strong&gt; &lt;strong&gt;and engineering&lt;/strong&gt; (theory, network measurement, systems, security) with &lt;strong&gt;policy&lt;/strong&gt; and concepts from &lt;strong&gt;economics&lt;/strong&gt;.&lt;/p&gt;
@@ -25,9 +36,9 @@
     
     <item>
       <title>Security, Privacy, and Safety of Smart Homes</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/security-privacy-and-safety-of-smart-homes/</link>
+      <link>http://localhost:1313/project/security-privacy-and-safety-of-smart-homes/</link>
       <pubDate>Mon, 12 Jul 2021 18:43:07 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/security-privacy-and-safety-of-smart-homes/</guid>
+      <guid>http://localhost:1313/project/security-privacy-and-safety-of-smart-homes/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;University of California, Irvine | 2015 - 2020&lt;/p&gt;
 &lt;p&gt;Research projects that focus on software infrastructure, systems, and compiler development for smart home devices, mobile, and cloud applications programmability, security, privacy and safety; working in both software and hardware sides of IoT devices.&lt;/p&gt;
@@ -36,9 +47,9 @@
     
     <item>
       <title>FPGA Cutting-edge Debugging Feature</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/fpga-cutting-edge-debugging-feature/</link>
+      <link>http://localhost:1313/project/fpga-cutting-edge-debugging-feature/</link>
       <pubDate>Mon, 12 Jul 2021 18:42:27 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/fpga-cutting-edge-debugging-feature/</guid>
+      <guid>http://localhost:1313/project/fpga-cutting-edge-debugging-feature/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;Xilinx Corp., San Jose | Summer 2017&lt;/p&gt;
 &lt;p&gt;Research on the Xilinx FPGA tool-chain and developed a prototype of FPGA cutting edge debugging features. Developed cutting edge debugging features using compiler techniques in newly being developed SDx tool chain. This is meant to allow application developers with little or no FPGA expertise to use high level programming languages such as OpenCL, C and C++ to program FPGAs.&lt;/p&gt;
@@ -47,9 +58,9 @@
     
     <item>
       <title>Irisign</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/irisign/</link>
+      <link>http://localhost:1313/project/irisign/</link>
       <pubDate>Mon, 12 Jul 2021 18:00:42 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/irisign/</guid>
+      <guid>http://localhost:1313/project/irisign/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;University of Pelita Harapan, Jakarta, Indonesia | 2009 - 2011&lt;/p&gt;
 &lt;p&gt;Implemented a health application for Windows Phone, Android, and Windows that can predict malfunctions in a person&amp;rsquo;s heart, lungs, spleen, and liver. Won a spot in the Top 10 Microsoft Imagine Cup 2012 in Indonesia.&lt;/p&gt;
@@ -58,9 +69,9 @@
     
     <item>
       <title>Garment Printing</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/garment-printing-system-university-of-pelita-harapan-jakarta-indonesia-2009-2011/</link>
+      <link>http://localhost:1313/project/garment-printing-system-university-of-pelita-harapan-jakarta-indonesia-2009-2011/</link>
       <pubDate>Wed, 30 Sep 2020 21:33:11 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/garment-printing-system-university-of-pelita-harapan-jakarta-indonesia-2009-2011/</guid>
+      <guid>http://localhost:1313/project/garment-printing-system-university-of-pelita-harapan-jakarta-indonesia-2009-2011/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;University of Pelita Harapan, Jakarta, Indonesia | 2009 - 2011&lt;/p&gt;
 &lt;p&gt;Implemented complete automation software/hardware system for garment printing using Gutenprint.&lt;/p&gt;
@@ -69,9 +80,9 @@
     
     <item>
       <title>Megaframe Project</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/megaframe-project-tu-delft-netherlands-2008-2009/</link>
+      <link>http://localhost:1313/project/megaframe-project-tu-delft-netherlands-2008-2009/</link>
       <pubDate>Wed, 30 Sep 2020 21:27:26 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/megaframe-project-tu-delft-netherlands-2008-2009/</guid>
+      <guid>http://localhost:1313/project/megaframe-project-tu-delft-netherlands-2008-2009/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;TU Delft, Netherlands | 2008 - 2009&lt;/p&gt;
 &lt;p&gt;Designed and implemented data collection infrastructure for SPAD (Single Photon Avalanche Diode) array in the Megaframe project for master’s final project in Delft Technological University with Prof. Edoardo Charbon. This project was a research initiative in low-cost techniques for single photon counting that involves a consortium of top European research universities and institutes, e.g. EPFL, University of Edinburgh, Delft University of Technology, and ST Microelectronics.&lt;/p&gt;
@@ -81,9 +92,9 @@
     
     <item>
       <title>Low-Power Wireless Sensor Network</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/low-power-wireless-sensor-network/</link>
+      <link>http://localhost:1313/project/low-power-wireless-sensor-network/</link>
       <pubDate>Wed, 30 Sep 2020 21:23:17 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/low-power-wireless-sensor-network/</guid>
+      <guid>http://localhost:1313/project/low-power-wireless-sensor-network/</guid>
       <description>&lt;p&gt;TNO, Delft, Netherlands | Summer 2008&lt;/p&gt;
 &lt;p&gt;Optimizing power management of wireless sensor network as a low-power embedded system.&lt;/p&gt;
 </description>
@@ -91,9 +102,9 @@
     
     <item>
       <title>Parallel Microcontroller</title>
-      <link>https://rahmadi-trimananda.netlify.app/project/parallel-microcontroller/</link>
+      <link>http://localhost:1313/project/parallel-microcontroller/</link>
       <pubDate>Wed, 30 Sep 2020 21:20:44 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/project/parallel-microcontroller/</guid>
+      <guid>http://localhost:1313/project/parallel-microcontroller/</guid>
       <description>&lt;!--StartFragment--&gt;
 &lt;p&gt;University of Pelita Harapan, Jakarta, Indonesia | 2005 - 2006&lt;/p&gt;
 &lt;p&gt;Developed a prototype of parallel processors with microcontrollers. The system consists of up to four configurable microcontrollers that communicate with one another in a master-slave hierarchy. The project involves designing algorithms for parallelizing tasks, communication between processing nodes, result aggregation, and interfacing with outside world..&lt;/p&gt;

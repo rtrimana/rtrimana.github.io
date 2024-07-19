@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Rahmadi Trimananda</title>
-    <link>https://rahmadi-trimananda.netlify.app/post/</link>
-      <atom:link href="https://rahmadi-trimananda.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
+      <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been awarded The 2024 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies (Runner-up)!</title>
+      <link>http://localhost:1313/post/caspar_bowden_award/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/caspar_bowden_award/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://petsymposium.org/award/winners.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies winners&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>I am honored to be given the opportunity to join Comcast Cyber Security (CCS) Research.</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/comcast_ccs_research/</link>
+      <link>http://localhost:1313/post/comcast_ccs_research/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/comcast_ccs_research/</guid>
+      <guid>http://localhost:1313/post/comcast_ccs_research/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://corporate.comcast.com/ccs-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comcast Cyber Security (CCS) Research&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -24,9 +34,9 @@
     
     <item>
       <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been accepted to IMC 2023 and awarded a Best Paper Award!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/echos_accepted_news/</link>
+      <link>http://localhost:1313/post/echos_accepted_news/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/echos_accepted_news/</guid>
+      <guid>http://localhost:1313/post/echos_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://conferences.sigcomm.org/imc/2023/cfp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -34,9 +44,9 @@
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs has been accepted to USENIX Security 2023!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/poligraph_accepted_news/</link>
+      <link>http://localhost:1313/post/poligraph_accepted_news/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/poligraph_accepted_news/</guid>
+      <guid>http://localhost:1313/post/poligraph_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity23/presentation/cui&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -44,25 +54,25 @@
     
     <item>
       <title>IEEE Senior Member grade elevation</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/ieee_senior_member_grade_elevation/</link>
+      <link>http://localhost:1313/post/ieee_senior_member_grade_elevation/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/ieee_senior_member_grade_elevation/</guid>
+      <guid>http://localhost:1313/post/ieee_senior_member_grade_elevation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting the Second Annual ProperData Symposium</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2022/</link>
+      <link>http://localhost:1313/post/properdata_symposium_2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2022/</guid>
+      <guid>http://localhost:1313/post/properdata_symposium_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRSeen at FTC PrivacyCon 2022</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</link>
+      <link>http://localhost:1313/post/ftc_privacycon_2022/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/ftc_privacycon_2022/</guid>
+      <guid>http://localhost:1313/post/ftc_privacycon_2022/</guid>
       <description>&lt;p&gt;Rahmadi Trimananda is presenting our work on 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies for Oculus VR&lt;/a&gt;] at 
 &lt;a href=&#34;https://www.ftc.gov/news-events/events/2022/11/privacycon-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTC PrivacyCon 2022&lt;/a&gt;.&lt;/p&gt;
@@ -71,9 +81,9 @@
     
     <item>
       <title>OVRSeen at PrivaCI 2022</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</link>
+      <link>http://localhost:1313/post/ovrseen_at_privaci_2022/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/ovrseen_at_privaci_2022/</guid>
+      <guid>http://localhost:1313/post/ovrseen_at_privaci_2022/</guid>
       <description>&lt;p&gt;Rahmadi Trimananda is presenting our work on 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies for Oculus VR&lt;/a&gt;] at 
 &lt;a href=&#34;https://privaci.info/symposium/2022/cfp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PrivaCI 2022&lt;/a&gt;.&lt;/p&gt;
@@ -82,25 +92,25 @@
     
     <item>
       <title>Having fun with our future researchers at Privacy and IoT Research Exploration Workshop!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/summer_workshop_2022/</link>
+      <link>http://localhost:1313/post/summer_workshop_2022/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/summer_workshop_2022/</guid>
+      <guid>http://localhost:1313/post/summer_workshop_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promoted into Project Scientist position!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/project_scientist_promotion/</link>
+      <link>http://localhost:1313/post/project_scientist_promotion/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/project_scientist_promotion/</guid>
+      <guid>http://localhost:1313/post/project_scientist_promotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FingerprinTV: Fingerprinting Smart TV Apps has been accepted to PETS 2022!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</link>
+      <link>http://localhost:1313/post/fingerprintv_accepted_news/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/fingerprintv_accepted_news/</guid>
+      <guid>http://localhost:1313/post/fingerprintv_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://petsymposium.org/popets/2022/popets-2022-0088.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FingerprinTV: Fingerprinting Smart TV Apps&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -108,17 +118,17 @@
     
     <item>
       <title>Supporting the First Annual ProperData Symposium</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2021/</link>
+      <link>http://localhost:1313/post/properdata_symposium_2021/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/properdata_symposium_2021/</guid>
+      <guid>http://localhost:1313/post/properdata_symposium_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRSeen: Auditing Network Traffic and Privacy Policies in Oculus VR has been accepted to USENIX Security 2022!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/ovrseen_accepted_news/</link>
+      <link>http://localhost:1313/post/ovrseen_accepted_news/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/ovrseen_accepted_news/</guid>
+      <guid>http://localhost:1313/post/ovrseen_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OVRSeen: Auditing Network Traffic and Privacy Policies in Oculus VR&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -126,9 +136,9 @@
     
     <item>
       <title>Started the Postdoctoral Researcher position!</title>
-      <link>https://rahmadi-trimananda.netlify.app/post/postdoctoral_researcher_start/</link>
+      <link>http://localhost:1313/post/postdoctoral_researcher_start/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/post/postdoctoral_researcher_start/</guid>
+      <guid>http://localhost:1313/post/postdoctoral_researcher_start/</guid>
       <description></description>
     </item>
     
