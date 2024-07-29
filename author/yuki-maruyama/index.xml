@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuki Maruyama | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/yuki-maruyama/</link>
-      <atom:link href="http://localhost:1313/author/yuki-maruyama/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuki Maruyama</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Yuki Maruyama</title>
-      <link>http://localhost:1313/author/yuki-maruyama/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/yuki-maruyama/</link>
     </image>
     
     <item>
       <title>A Time-Resolved, Low-Noise Single-Photon Image Sensor Fabricated in Deep-Submicron CMOS Technology</title>
-      <link>http://localhost:1313/publication/2012_jssc/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2012_jssc/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2012_jssc/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2012_jssc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High frame-rate TCSPC-FLIM using a novel SPAD-based image sensor</title>
-      <link>http://localhost:1313/publication/2010_spie/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2010_spie/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2010_spie/</guid>
       <description></description>
     </item>
     

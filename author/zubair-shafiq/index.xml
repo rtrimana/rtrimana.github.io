@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zubair Shafiq | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/zubair-shafiq/</link>
-      <atom:link href="http://localhost:1313/author/zubair-shafiq/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/zubair-shafiq/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/zubair-shafiq/index.xml" rel="self" type="application/rss+xml" />
     <description>Zubair Shafiq</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Zubair Shafiq</title>
-      <link>http://localhost:1313/author/zubair-shafiq/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/zubair-shafiq/</link>
     </image>
     
     <item>
       <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been awarded The 2024 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies (Runner-up)!</title>
-      <link>http://localhost:1313/post/caspar_bowden_award/</link>
+      <link>https://rahmadi-trimananda.netlify.app/post/caspar_bowden_award/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/caspar_bowden_award/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/post/caspar_bowden_award/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://petsymposium.org/award/winners.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies winners&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -24,17 +24,17 @@
     
     <item>
       <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem</title>
-      <link>http://localhost:1313/publication/2023_echos_imc/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_echos_imc/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been accepted to IMC 2023 and awarded a Best Paper Award!</title>
-      <link>http://localhost:1313/post/echos_accepted_news/</link>
+      <link>https://rahmadi-trimananda.netlify.app/post/echos_accepted_news/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/echos_accepted_news/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/post/echos_accepted_news/</guid>
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://conferences.sigcomm.org/imc/2023/cfp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -42,9 +42,9 @@
     
     <item>
       <title>Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem</title>
-      <link>http://localhost:1313/publication/2022_echos_arxiv/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022_echos_arxiv/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_echos_arxiv/</guid>
       <description></description>
     </item>
     

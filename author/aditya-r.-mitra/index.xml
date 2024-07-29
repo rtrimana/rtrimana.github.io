@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aditya R. Mitra | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/aditya-r.-mitra/</link>
-      <atom:link href="http://localhost:1313/author/aditya-r.-mitra/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/aditya-r.-mitra/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/aditya-r.-mitra/index.xml" rel="self" type="application/rss+xml" />
     <description>Aditya R. Mitra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Aditya R. Mitra</title>
-      <link>http://localhost:1313/author/aditya-r.-mitra/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/aditya-r.-mitra/</link>
     </image>
     
     <item>
       <title>Parallel Processors Approach for Robotics Real-Time Problem: Case Study on Closed-Loop Control System of Toddler Robot</title>
-      <link>http://localhost:1313/publication/2007_icsiit/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2007_icsiit/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2007_icsiit/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2007_icsiit/</guid>
       <description></description>
     </item>
     

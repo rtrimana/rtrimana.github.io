@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/talk/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://rahmadi-trimananda.netlify.app/talk/</link>
     </image>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>http://localhost:1313/talk/ovrseen_ftc_privacycon_2022/</link>
+      <link>https://rahmadi-trimananda.netlify.app/talk/ovrseen_ftc_privacycon_2022/</link>
       <pubDate>Tue, 01 Nov 2022 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ovrseen_ftc_privacycon_2022/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/talk/ovrseen_ftc_privacycon_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>http://localhost:1313/talk/ovrseen_privaci_2022/</link>
+      <link>https://rahmadi-trimananda.netlify.app/talk/ovrseen_privaci_2022/</link>
       <pubDate>Thu, 22 Sep 2022 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ovrseen_privaci_2022/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/talk/ovrseen_privaci_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>http://localhost:1313/talk/ovrseen_ddg_2022/</link>
+      <link>https://rahmadi-trimananda.netlify.app/talk/ovrseen_ddg_2022/</link>
       <pubDate>Thu, 18 Aug 2022 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ovrseen_ddg_2022/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/talk/ovrseen_ddg_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet-of-Things Programmability and Security: On Trusting the Untrusted</title>
-      <link>http://localhost:1313/talk/iot_programmability_2016/</link>
+      <link>https://rahmadi-trimananda.netlify.app/talk/iot_programmability_2016/</link>
       <pubDate>Fri, 18 Nov 2016 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/iot_programmability_2016/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/talk/iot_programmability_2016/</guid>
       <description></description>
     </item>
     

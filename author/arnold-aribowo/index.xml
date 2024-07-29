@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arnold Aribowo | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/arnold-aribowo/</link>
-      <atom:link href="http://localhost:1313/author/arnold-aribowo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/arnold-aribowo/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/arnold-aribowo/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnold Aribowo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Arnold Aribowo</title>
-      <link>http://localhost:1313/author/arnold-aribowo/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/arnold-aribowo/</link>
     </image>
     
     <item>
       <title>Communication Pattern of Parallel Computer, Case Study on The Implementation of Microcontrollers Parallel Computer Prototype</title>
-      <link>http://localhost:1313/publication/2013_communication/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2013_communication/</link>
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2013_communication/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2013_communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printer on Garment Printing</title>
-      <link>http://localhost:1313/publication/2012_icsiit/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2012_icsiit/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2012_icsiit/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2012_icsiit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Microcontrolers AT89C52: Parallel Processors In Embedded System Application Of Robotics</title>
-      <link>http://localhost:1313/publication/2006_snsi/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2006_snsi/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2006_snsi/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2006_snsi/</guid>
       <description></description>
     </item>
     

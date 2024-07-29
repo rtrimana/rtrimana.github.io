@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sashidhar Jakkamsetti | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/sashidhar-jakkamsetti/</link>
-      <atom:link href="http://localhost:1313/author/sashidhar-jakkamsetti/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/sashidhar-jakkamsetti/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/sashidhar-jakkamsetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Sashidhar Jakkamsetti</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Sashidhar Jakkamsetti</title>
-      <link>http://localhost:1313/author/sashidhar-jakkamsetti/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/sashidhar-jakkamsetti/</link>
     </image>
     
     <item>
       <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
-      <link>http://localhost:1313/publication/2023_madea/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2023_madea/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023_madea/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_madea/</guid>
       <description></description>
     </item>
     

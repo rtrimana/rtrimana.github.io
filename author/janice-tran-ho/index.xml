@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janice Tran Ho | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/janice-tran-ho/</link>
-      <atom:link href="http://localhost:1313/author/janice-tran-ho/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/janice-tran-ho/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/janice-tran-ho/index.xml" rel="self" type="application/rss+xml" />
     <description>Janice Tran Ho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Janice Tran Ho</title>
-      <link>http://localhost:1313/author/janice-tran-ho/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/janice-tran-ho/</link>
     </image>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>http://localhost:1313/publication/2022_usenix_sec/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022_usenix_sec/</guid>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_ovrseen_privaci/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_ovrseen_privaci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
-      <link>http://localhost:1313/publication/2021_ovrseen_arxiv/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_usenix_sec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_ovrseen_arxiv/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_ovrseen_arxiv/</guid>
       <description></description>
     </item>
     

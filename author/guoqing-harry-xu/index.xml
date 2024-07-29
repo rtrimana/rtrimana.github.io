@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guoqing Harry Xu | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/guoqing-harry-xu/</link>
-      <atom:link href="http://localhost:1313/author/guoqing-harry-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/guoqing-harry-xu/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/guoqing-harry-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guoqing Harry Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Guoqing Harry Xu</title>
-      <link>http://localhost:1313/author/guoqing-harry-xu/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/guoqing-harry-xu/</link>
     </image>
     
     <item>
       <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
-      <link>http://localhost:1313/publication/2022_vmcai/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2022_vmcai/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2022_vmcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stateful Dynamic Partial Order Reduction for Model Checking Event-Driven Applications that Do Not Terminate</title>
-      <link>http://localhost:1313/publication/2021_stateful_arxiv/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2021_stateful_arxiv/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2021_stateful_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding and Automatically Detecting Conflicting Interactions between Smart Home IoT Applications</title>
-      <link>http://localhost:1313/publication/2020_esecfse/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020_esecfse/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_esecfse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poster: Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>http://localhost:1313/publication/2020_hotedge/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020_hotedge/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_hotedge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Securing Smart Home Devices against Compromised Cloud Servers</title>
-      <link>http://localhost:1313/publication/2020_fidelius_arxiv/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020_fidelius_arxiv/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2020_fidelius_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vigilia: Securing Smart Home Edge Computing</title>
-      <link>http://localhost:1313/publication/2018_sec/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2018_sec/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2018_sec/</guid>
       <description></description>
     </item>
     

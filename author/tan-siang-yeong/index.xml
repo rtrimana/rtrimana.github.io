@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tan Siang Yeong | Rahmadi Trimananda</title>
-    <link>http://localhost:1313/author/tan-siang-yeong/</link>
-      <atom:link href="http://localhost:1313/author/tan-siang-yeong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://rahmadi-trimananda.netlify.app/author/tan-siang-yeong/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/author/tan-siang-yeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Tan Siang Yeong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Tan Siang Yeong</title>
-      <link>http://localhost:1313/author/tan-siang-yeong/</link>
+      <link>https://rahmadi-trimananda.netlify.app/author/tan-siang-yeong/</link>
     </image>
     
     <item>
       <title>Integrated Power Management Validation: Toward 5X Velocity in Validation Roadmap</title>
-      <link>http://localhost:1313/publication/2015_intel_dttc/</link>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2015_intel_dttc/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2015_intel_dttc/</guid>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2015_intel_dttc/</guid>
       <description></description>
     </item>
     
