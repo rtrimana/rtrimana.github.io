@@ -5,12 +5,36 @@
     <link>https://rahmadi-trimananda.netlify.app/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Rahmadi Trimananda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Rahmadi Trimananda</title>
       <link>https://rahmadi-trimananda.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>BehaVR: User Identification Based on VR Sensor Data</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2024_behavr_pets/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_behavr_pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Privacy Norms through Web Forms</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2024_webform_pets/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_webform_pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2024_diffaudit_imc/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_diffaudit_imc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
@@ -60,26 +84,10 @@
     </item>
     
     <item>
-      <title>Understanding Privacy Norms through Web Forms</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2024_webform/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2024_webform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>VBIT: Mixed Reality Visualization of Tracking by the Internet of Things</title>
       <link>https://rahmadi-trimananda.netlify.app/publication/2024_vbit/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://rahmadi-trimananda.netlify.app/publication/2024_vbit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_diffaudit/</guid>
       <description></description>
     </item>
     
