@@ -5,12 +5,32 @@
     <link>https://rahmadi-trimananda.netlify.app/tag/publication/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Publication</title>
       <link>https://rahmadi-trimananda.netlify.app/tag/publication/</link>
     </image>
+    
+    <item>
+      <title>Understanding Privacy Norms through Web Forms and BehaVR: User Identification Based on VR Sensor Data have been accepted at PETS 2025!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/pets2025_accepted_papers/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/pets2025_accepted_papers/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://petsymposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PETS 2025&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents has been accepted at ACM IMC 2024!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/imc2024_accepted_paper/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/imc2024_accepted_paper/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://conferences.sigcomm.org/imc/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM IMC 2024&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been awarded The 2024 Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies (Runner-up)!</title>
