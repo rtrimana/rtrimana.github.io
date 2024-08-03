@@ -5,12 +5,28 @@
     <link>https://rahmadi-trimananda.netlify.app/talk/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Aug 2024 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
       <link>https://rahmadi-trimananda.netlify.app/talk/</link>
     </image>
+    
+    <item>
+      <title>The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!</title>
+      <link>https://rahmadi-trimananda.netlify.app/talk/owasp_lascon_2024/</link>
+      <pubDate>Fri, 02 Aug 2024 13:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/talk/owasp_lascon_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Golden xCOMPASS: The Compass You Need to Navigate through the App-Privacy Universe!</title>
+      <link>https://rahmadi-trimananda.netlify.app/talk/usenix_soups_lightning_talk_2024/</link>
+      <pubDate>Fri, 02 Aug 2024 13:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/talk/usenix_soups_lightning_talk_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR</title>
