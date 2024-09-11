@@ -5,12 +5,23 @@
     <link>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/index.xml" rel="self" type="application/rss+xml" />
     <description>Rahmadi Trimananda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Rahmadi Trimananda</title>
       <link>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</link>
     </image>
+    
+    <item>
+      <title>I am honored to be invited as a speaker at IEEE Digital Privacy Workshop 2024.</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/ieee_digital_privacy_workshop_2024/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/ieee_digital_privacy_workshop_2024/</guid>
+      <description>&lt;p&gt;Rahmadi Trimananda is presenting 
+&lt;a href=&#34;https://github.com/Comcast/xCompass/tree/main/xCOMPASS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xCOMPASS&lt;/a&gt; at 
+&lt;a href=&#34;https://digitalprivacy.ieee.org/events/digital-privacy-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Digital Privacy Workshop 2024&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>I am honored to be invited as a speaker at OWASP LASCON 2024.</title>
