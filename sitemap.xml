@@ -2,17 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication-type/3/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/jad-al-aaraj/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/olivia-figueira/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication_types/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/</loc>
-    <lastmod>2024-09-04T13:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/author/tu-le/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_arxiv/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/talk/</loc>
     <lastmod>2024-09-04T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/talk/ieee_digital_privacy_workshop_2024/</loc>
     <lastmod>2024-09-04T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/categories/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
@@ -27,9 +54,6 @@
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/category/presentation/</loc>
-    <lastmod>2024-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
     <lastmod>2024-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/tags/</loc>
@@ -48,12 +72,6 @@
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication-type/1/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication-type/3/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication/2025_behavr_pets/</loc>
@@ -75,12 +93,6 @@
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/category/publication/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication_types/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/publication/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/author/salma-elmalaki/</loc>
@@ -111,9 +123,6 @@
     <lastmod>2024-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/post/imc2024_accepted_paper/</loc>
-    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/olivia-figueira/</loc>
     <lastmod>2024-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication/2024_diffaudit_privaci/</loc>
@@ -160,12 +169,6 @@
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/category/job/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/jad-al-aaraj/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/author/tu-le/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication/2024_vbit/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
