@@ -5,12 +5,22 @@
     <link>https://rahmadi-trimananda.netlify.app/post/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://rahmadi-trimananda.netlify.app/post/</link>
     </image>
+    
+    <item>
+      <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents awarded a Best Student Paper Award!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/imc2024_best_student_paper_award/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/imc2024_best_student_paper_award/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://conferences.sigcomm.org/imc/2024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM IMC 2024&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>I am honored to be invited as a speaker at IEEE Digital Privacy Workshop 2024.</title>
