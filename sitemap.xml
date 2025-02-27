@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rahmadi-trimananda.netlify.app/post/ieee_engineer_of_the_year_2025/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/categories/</loc>
+    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/post/ieee_engineer_of_the_year_2025/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/tag/ieee-award/</loc>
