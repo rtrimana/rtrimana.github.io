@@ -5,12 +5,38 @@
     <link>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/index.xml" rel="self" type="application/rss+xml" />
     <description>Athina Markopoulou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Athina Markopoulou</title>
       <link>https://rahmadi-trimananda.netlify.app/author/athina-markopoulou/</link>
     </image>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2025_madea_arxiv/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2025_madea_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2025_madea_icc2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2025_madea_icc2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation has been accepted to IEEE ICC 2025!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/madea_accepted_news/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/madea_accepted_news/</guid>
+      <description>&lt;p&gt;See 
+&lt;a href=&#34;https://icc2025.ieee-icc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DiffAudit: Auditing Privacy Practices of Online Services for Children and Adolescents awarded a Best Student Paper Award!</title>
@@ -164,14 +190,6 @@
       <description>&lt;p&gt;See 
 &lt;a href=&#34;https://conferences.sigcomm.org/imc/2023/cfp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_madea/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_madea/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -5,12 +5,28 @@
     <link>https://rahmadi-trimananda.netlify.app/publication/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://rahmadi-trimananda.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2025_madea_arxiv/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2025_madea_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
+      <link>https://rahmadi-trimananda.netlify.app/publication/2025_madea_icc2025/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/publication/2025_madea_icc2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VBIT: Mixed Reality Visualization of Tracking by the Internet of Things</title>
@@ -113,14 +129,6 @@
       <link>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://rahmadi-trimananda.netlify.app/publication/2023_echos_imc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MADEA: A Malware Detection Architecture for IoT blending Network Monitoring and Device Attestation</title>
-      <link>https://rahmadi-trimananda.netlify.app/publication/2023_madea/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://rahmadi-trimananda.netlify.app/publication/2023_madea/</guid>
       <description></description>
     </item>
     
