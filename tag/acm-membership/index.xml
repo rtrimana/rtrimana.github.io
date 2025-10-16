@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACM Membership | Rahmadi Trimananda</title>
+    <link>https://rahmadi-trimananda.netlify.app/tag/acm-membership/</link>
+      <atom:link href="https://rahmadi-trimananda.netlify.app/tag/acm-membership/index.xml" rel="self" type="application/rss+xml" />
+    <description>ACM Membership</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
+      <title>ACM Membership</title>
+      <link>https://rahmadi-trimananda.netlify.app/tag/acm-membership/</link>
+    </image>
+    
+    <item>
+      <title>ACM Senior Member grade elevation</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/acm_senior_member_grade_elevation/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/acm_senior_member_grade_elevation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

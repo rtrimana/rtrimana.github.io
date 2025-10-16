@@ -5,12 +5,39 @@
     <link>https://rahmadi-trimananda.netlify.app/</link>
       <atom:link href="https://rahmadi-trimananda.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Rahmadi Trimananda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rahmadi-trimananda.netlify.app/images/icon_hu292d031b88df24f3cacadd2a80b9ca98_5827229_512x512_fill_lanczos_center_3.png</url>
       <title>Rahmadi Trimananda</title>
       <link>https://rahmadi-trimananda.netlify.app/</link>
     </image>
+    
+    <item>
+      <title>ACM Senior Member grade elevation</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/acm_senior_member_grade_elevation/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/acm_senior_member_grade_elevation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crypto Agility Risk Assessment Framework (CARAF) In Version 2.0!</title>
+      <link>https://rahmadi-trimananda.netlify.app/post/caraf_release/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/post/caraf_release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-Quantum Cryptography (PQC)</title>
+      <link>https://rahmadi-trimananda.netlify.app/project/pqc/</link>
+      <pubDate>Tue, 01 Apr 2025 18:44:10 +0000</pubDate>
+      <guid>https://rahmadi-trimananda.netlify.app/project/pqc/</guid>
+      <description>&lt;!--StartFragment--&gt;
+&lt;p&gt;Comcast Cybersecurity &amp;amp; Privacy Research | 2025 - now&lt;/p&gt;
+&lt;p&gt;Comcast Cybersecurity &amp;amp; Privacy Research started an initiative for research and development on Post-Quantum Cryptography (PQC) and its integration with current crypto systems.&lt;/p&gt;
+&lt;!--EndFragment--&gt;</description>
+    </item>
     
     <item>
       <title>PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs (Journal Version)</title>
