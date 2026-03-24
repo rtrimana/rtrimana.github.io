@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rahmadi-trimananda.netlify.app/talk/university_of_alabama_2026/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rahmadi-trimananda.netlify.app/talk/</loc>
+    <lastmod>2026-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/authors/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,9 +30,6 @@
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/author/rahmadi-trimananda/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/tags/</loc>
@@ -115,9 +121,6 @@
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/publication/2024_vbit_arxiv/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rahmadi-trimananda.netlify.app/talk/</loc>
-    <lastmod>2024-09-04T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rahmadi-trimananda.netlify.app/talk/ieee_digital_privacy_workshop_2024/</loc>
     <lastmod>2024-09-04T13:00:00+00:00</lastmod>
